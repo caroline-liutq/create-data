@@ -22,7 +22,6 @@ public class LoadDataDao {
         //         插入 ebk_teen_student_Labels 表
         // Insert.insertStudentLabels(buildStudentLabels(984493, 984505));
 
-
     }
 
     public static ArrayList<TemplateStudent> buildStudentTemp(int start, int end) {
